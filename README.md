@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @cubelumod
 - 👀 I’m interested in web development but I also like to learn more on Java
 - 🌱 I’m currently learning React JS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... +639303832543 / jaylumod94@gmail.com
+- 📫 jaylumod94@gmail.com
 
 <!---
 cubelumod/cubelumod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
